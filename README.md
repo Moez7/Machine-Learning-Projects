@@ -1,1 +1,3 @@
 # Machine-Learning-Projects
+
+Solving a lot of machine learning problems using different algorithms such as linear regression, SVM, logistic regression XGBOOST regression ...
